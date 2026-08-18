@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tienhotze.github.io/resources-nazvbg/sitemap.xml
